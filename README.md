@@ -23,12 +23,16 @@ Projects may evolve, be archived, or graduate into standalone repositories under
 
 ## Repository Structure
 
+## Repository Structure
+
+```text
 labs/
-├── projects/ # Community projects and experiments
-├── CONTRIBUTING.md # How to contribute
-├── GOVERNANCE.md # Community governance model
-├── CODE_OF_CONDUCT.md
-└── LICENSE
+├── projects/           # Community projects and experiments
+├── CONTRIBUTING.md     # How to contribute
+├── GOVERNANCE.md       # Community governance model
+├── CODE_OF_CONDUCT.md  # Community standards
+└── LICENSE             # Apache License 2.0
+```
 
 
 New projects should follow the template available at:

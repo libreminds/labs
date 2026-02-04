@@ -23,8 +23,6 @@ Projects may evolve, be archived, or graduate into standalone repositories under
 
 ## Repository Structure
 
-## Repository Structure
-
 ```text
 labs/
 ├── projects/           # Community projects and experiments
